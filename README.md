@@ -1,1 +1,2 @@
-Bernoulli and Multinomial NB from scratch (artifacts). Task=text classification
+**Archive: Bernoulli and Multinomial NB from scratch.
+text classification
