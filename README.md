@@ -1,2 +1,2 @@
-**Archive: Bernoulli and Multinomial NB from scratch.
-text classification
+# Archive: Bernoulli and Multinomial NB from scratch.
+for text classification
